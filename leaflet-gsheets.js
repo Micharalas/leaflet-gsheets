@@ -5,7 +5,7 @@
  * The Sheets are then imported using Tabletop.js and overwrite the initially laded layers
  */
 
-// init() is called as soon as the page loads
+// init() is called as soon as the page loads 
 function init() {
   // PASTE YOUR URLs HERE
   // these URLs come from Google Sheets 'shareable link' form
